@@ -92,7 +92,7 @@ img {
     display: flex;
     /* Set a very large width to accommodate all images */
     width: fit-content; /* Ensure container width fits its content */
-    animation: marquee 20s linear infinite; /* Adjust duration as needed */
+    animation: marquee 40s linear infinite; /* Adjust duration as needed */
 }
 
 .image-container img {
