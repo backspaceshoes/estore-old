@@ -85,23 +85,24 @@ img {
 }
 
 .marquee {
-    height: 130px; 
+    width: 100%; /* Full width */
+    height: 130px; /* Height of each image */
     overflow: hidden;
 }
 
 .image-container {
     display: flex;
-    animation: marquee 20s linear infinite; 
+    animation: marquee 20s linear infinite; /* Adjust duration as needed */
 }
 
 .image-container img {
-    height: 100%; 
-    margin-right: 10px; 
+    height: 100%; /* Ensure images fill the height of the container */
+    margin-right: 10px; /* Adjust spacing between images */
 }
 
 @keyframes marquee {
-    0%   { transform: translateY(0); }
-    100% { transform: translateY(-100%); }
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(calc(-130px * 14)); } /* Adjust distance as needed */
 }
 
 /* Background header */
