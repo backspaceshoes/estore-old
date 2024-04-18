@@ -25,7 +25,7 @@
                 520.00
             </price>
             <description>
-                Nike Air Jordan 1 Mid SE ASW Carbon Fiber Black White Men Women Shoes
+                Step into sleek style and unbeatable performance with the NIKE AIR JORDAN ZY009, featuring a breathable mesh upper, durable rubber outsole, and iconic swoosh logo for the ultimate blend of comfort and athletic elegance.
             </description>
             <imageURL>1.jpg</imageURL>
         </categoriesItem>
@@ -37,7 +37,7 @@
                 469.00
             </price>
             <description>
-                Sports boots PUMA leather fashion boy Puma Rebound JOY JR – OLIVE GREEN
+               Elevate your stride with the PUMA V12 LEATHER in OLIVE GREEN, crafted with premium leather, sleek design, and PUMA's signature comfort technology for a luxurious fusion of style and performance.
             </description>
             <imageURL>2.jpg</imageURL>
         </categoriesItem>
@@ -49,7 +49,7 @@
                 259.00
             </price>
             <description>
-                The iconic adidas Original Superstar
+               Sleek, stylish, and comfortable, these shoes elevate your look with a bold it's design and premium materials for confident strides in every step.
             </description>
             <imageURL>3.jpg</imageURL>
         </categoriesItem>
@@ -61,7 +61,7 @@
                 219.00
             </price>
             <description>
-                New Balance Shoes New Balance CNY Rare
+               Introducing New Balance CNY Rare shoes, a limited-edition celebration of style and heritage, perfect for discerning collectors seeking standout additions to their inventory.
             </description>
             <imageURL>4.jpg</imageURL>
         </categoriesItem>
@@ -73,7 +73,7 @@
                 750.00
             </price>
             <description>
-                SDon't Look Up' New Balance Sneakers Incorporate Meteorite
+                Explore the New Balance Best Moon Walking shoes, meticulously crafted for unparalleled comfort and style, ideal for moonlit strolls and urban adventures alike.
             </description>
             <imageURL>5.jpg</imageURL>
         </categoriesItem>
@@ -85,7 +85,7 @@
                 569.00
             </price>
             <description>
-                This winter, layer up in corduroy. Produced at the intersection of art, music and culture, this champion running shoe helped define the '90s. Worn by presidents, revolutionised through collabs and celebrated through rare colourways, its striking visuals, Waffle outsole and exposed Air cushioning keep it alive and well.
+                Discover the Nike AirMax D14, a fusion of style and performance engineered to elevate your stride with unparalleled comfort and iconic Nike design.
             </description>
             <imageURL>6.jpg</imageURL>
         </categoriesItem>
@@ -97,7 +97,7 @@
                 699.00
             </price>
             <description>
-                Run The Streets. Do You. Research and shop all the latest gear from the world of Fashion, Sport, and everywhere in between.
+                Unveil the Puma XShredded 2, a pinnacle of style and performance, designed to enhance your workout with cutting-edge technology and Puma's signature flair.
             </description>
             <imageURL>7.jpg</imageURL>
         </categoriesItem>
@@ -109,7 +109,7 @@
                 469.99
             </price>
             <description>
-                Vans X Padin Musa Malaysia
+               Introducing the Vans X Padin Musa Malaysia collaboration, a unique blend of Malaysian heritage and Vans' iconic style, bringing a touch of local culture to your footwear collection.
             </description>
             <imageURL>8.jpg</imageURL>
         </categoriesItem>
@@ -124,7 +124,7 @@
                     539.99
                 </price>
                 <description>
-                    Sprint Forever Puma Bolt EvoSPEED Electric V2 V3
+                    Experience the Puma XBOLT Spikes: crafted for speed, precision, and unmatched performance on the track.
                 </description>
                 <imageURL>9.jpg</imageURL>
             </categoriesItem>
@@ -136,7 +136,7 @@
                     559.00
                 </price>
                 <description>
-                    Running is your daily ritual, taking you from road to trail as you seek out new adventures and goals. Let the Nike Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road. Midfoot support is controlled by the laces, letting you find the right fit and feel. Your trusted workhorse with wings is ready for an off-road journey. Time to fly.
+                    Unleash your potential with Nike AirMax Running Shoes X12, engineered for exceptional performance with a blend of comfort, style, and innovation.
                 </description>
                 <imageURL>10.jpg</imageURL>
             </categoriesItem>
@@ -161,6 +161,9 @@
                 <price>
                     249.00
                 </price>
+                <description>
+                    TStep into comfort and style with Skechers' latest Flip Flop for women, designed to elevate your summer wardrobe with effortless chic and unparalleled comfort. 
+                </description>                
                 <imageURL>12.jpg</imageURL>
             </categoriesItem>
             <categoriesItem>
@@ -170,15 +173,21 @@
                 <price>
                     230.00
                 </price>
+                <description>
+                Elevate your comfort and style with Bonia Stylish Ellish slippers, crafted with luxurious materials and sleek design to add a touch of sophistication to your everyday loungewear.
+                </description> 
                 <imageURL>13.jpg</imageURL>
             </categoriesItem>
             <categoriesItem>
                 <name>
-                    CROCS X Lisa Frank Classic Clogs Kids Size J5 Womens 7 Limited    
+                    CROCS X Lisa Frank Classic Clogs    
                 </name>
                 <price>
                     479.34
                 </price>
+                <description>
+               Experience the playful charm of Crocs X Lisa Frank Classic Clogs in kids' sizes, where iconic design meets comfort, bringing joy and color to every step.
+                </description> 
                 <imageURL>14.jpg</imageURL>
             </categoriesItem>
         </slipers>
