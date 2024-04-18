@@ -91,7 +91,7 @@ img {
 .image-container {
     display: flex;
     width: fit-content;
-    animation: marquee 30s linear infinite; 
+    animation: marquee 20s linear infinite; 
 }
 
 .image-container img {
