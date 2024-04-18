@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE categories
+[
+<!ELEMENT categories (sneakers, beverages)>
+<!ELEMENT sneakers (categoriesItem*)>
+<!ELEMENT others (sports, slipers)>
+<!ELEMENT sports (categoriesItem*)>
+<!ELEMENT slipers (categoriesItem*)>
+<!ELEMENT menuItem (name?, size?, price, description?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT imageURL (#PCDATA)>
+]>
+
+<categories>
+    <sneakers>
+     <categoriesItem>
+            <name>
+                NIKE AIR JORDAN ZY009
+            </name>
+            <price>
+                520.00
+            </price>
+            <description>
+                Nike Air Jordan 1 Mid SE ASW Carbon Fiber Black White Men Women Shoes
+            </description>
+            <imageURL>1.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                PUMA V12 LEATHER
+            </name>
+            <price>
+                469.00
+            </price>
+            <description>
+                Sports boots PUMA leather fashion boy Puma Rebound JOY JR – OLIVE GREEN
+            </description>
+            <imageURL>2.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                ADIDAS BLACK MOON BATMAN 
+            </name>
+            <price>
+                259.00
+            </price>
+            <description>
+                The iconic adidas Original Superstar
+            </description>
+            <imageURL>3.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                NEW BALANCE SMART CASUAL Y1
+            </name>
+            <price>
+                219.00
+            </price>
+            <description>
+                New Balance Shoes New Balance CNY Rare
+            </description>
+            <imageURL>4.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                NEW BALANCE BEST MOON WALKING
+            </name>
+            <price>
+                750.00
+            </price>
+            <description>
+                SDon't Look Up' New Balance Sneakers Incorporate Meteorite
+            </description>
+            <imageURL>5.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                NIKE AIRMAX D14
+            </name>
+            <price>
+                569.00
+            </price>
+            <description>
+                This winter, layer up in corduroy. Produced at the intersection of art, music and culture, this champion running shoe helped define the '90s. Worn by presidents, revolutionised through collabs and celebrated through rare colourways, its striking visuals, Waffle outsole and exposed Air cushioning keep it alive and well.
+            </description>
+            <imageURL>6.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                PUMA XSHREDDED 2
+            </name>
+            <price>
+                699.00
+            </price>
+            <description>
+                Run The Streets. Do You. Research and shop all the latest gear from the world of Fashion, Sport, and everywhere in between.
+            </description>
+            <imageURL>7.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                VANS X PADIN
+            </name>
+            <price>
+                469.99
+            </price>
+            <description>
+                Vans X Padin Musa Malaysia
+            </description>
+            <imageURL>8.jpg</imageURL>
+        </categoriesItem>
+    </sneakers>
+    <others>
+        <sports>
+            <categoriesItem>
+                <size>
+                    PUMA XBOLT SPIKES    
+                </size>
+                <price>
+                    539.99
+                </price>
+                <description>
+                    Sprint Forever Puma Bolt EvoSPEED Electric V2 V3
+                </description>
+                <imageURL>9.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <size>
+                    NIKE AIRMAX RUNNING SHOES X12   
+                </size>
+                <price>
+                    559.00
+                </price>
+                <description>
+                    Running is your daily ritual, taking you from road to trail as you seek out new adventures and goals. Let the Nike Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road. Midfoot support is controlled by the laces, letting you find the right fit and feel. Your trusted workhorse with wings is ready for an off-road journey. Time to fly.
+                </description>
+                <imageURL>10.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <size>
+                    NEW BALANCE SPARKING P1   
+                </size>
+                <price>
+                    524.00
+                </price>
+                <description>
+                    The 1080 delivers top-of-the-line performance to every kind of runner, whether you’re training for world-class competition, or catching a rush hour train. 
+                </description>
+                <imageURL>11.jpg</imageURL>
+            </categoriesItem>
+        </sports>
+        <slipers>
+            <categoriesItem>
+                <name>
+                    SKETCHERS NEW FLIP FLOP WOMEN WEARS    
+                </name>
+                <price>
+                    249.00
+                </price>
+                <imageURL>12.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    BONIA STYLISH ELLISH    
+                </name>
+                <price>
+                    230.00
+                </price>
+                <imageURL>13.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    CROCS X Lisa Frank Classic Clogs Kids Size J5 Womens 7 Limited    
+                </name>
+                <price>
+                    479.34
+                </price>
+                <imageURL>14.jpg</imageURL>
+            </categoriesItem>
+        </slipers>
+    </others>
+</categories>

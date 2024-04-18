@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE branches
+[
+<!ELEMENT branches (branch*)>
+<!ELEMENT branch (address, contact, hours, mapsLink)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ELEMENT hours (#PCDATA)>
+<!ELEMENT mapsLink (#PCDATA)>
+]>
+
+<branches>
+    <branch>
+        <address>
+            Vivacity Megamall Kuching, Sarawak
+        </address>
+        <contact>
+            082 8787878
+        </contact>
+        <hours>
+            Mon - Fri: 10:00 to 21:00, Sat-Sun: 10:00 to 20:00
+        </hours>
+        <mapsLink>  
+        https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.4017096533175!2d110.36701347348941!3d1.5268598609844002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31fba70519b20649%3A0xc166c17cf6ce90bc!2sVivacity%20Megamall!5e0!3m2!1sen!2smy!4v1713369513778!5m2!1sen!2smy</mapsLink>
+    </branch>
+    <branch>
+        <address>
+            Plaza Merdeka Kuching, Sarawak
+        </address>
+        <contact>
+            082 8788877
+        </contact>
+        <hours>
+            Mon - Fri: 10:00 to 21:00, Sat-Sun: 10:00 to 20:00
+        </hours>
+        <mapsLink>  
+            https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.3422432775988!2d110.34144207348928!3d1.5585795608724593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31fba7ee0ea57329%3A0x104e8cca7140a048!2sPlaza%20Merdeka!5e0!3m2!1sen!2smy!4v1713369733012!5m2!1sen!2smy</mapsLink>
+    </branch>
+    <branch>
+        <address>
+            Midvalley Megamall Kuala Lumpur
+        </address>
+        <contact>
+            03 8333 1122
+        </contact>
+        <hours>
+            Mon - Fri: 10:00 to 21:00, Sat-Sun: 10:00 to 20:00        
+        </hours>
+        <mapsLink> 
+        https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.9135553109936!2d101.6748323734893!3d3.117568153349057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc498eb19ab83d%3A0x564d5053f56991fb!2sMid%20Valley%20Megamall!5e0!3m2!1sen!2smy!4v1713369856247!5m2!1sen!2smy</mapsLink>
+    </branch>
+</branches>
