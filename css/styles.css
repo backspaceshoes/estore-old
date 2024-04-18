@@ -106,9 +106,10 @@ img {
 
 .video-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Adjust as needed */
+    width: 700px;
+    max-width: 100%;
+    margin: 0 auto;
+    }
 }
 
 .video-player {
