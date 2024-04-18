@@ -90,8 +90,8 @@ img {
 
 .image-container {
     display: flex;
-    width: fit-content; 
-    animation: marquee 80s linear infinite; 
+    width: fit-content;
+    animation: marquee 40s linear infinite; 
 }
 
 .image-container img {
