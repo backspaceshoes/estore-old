@@ -92,7 +92,7 @@ img {
 
 .image-container {
     display: flex;
-    animation: marquee 20s linear infinite; /* Adjust duration as needed */
+    animation: marquee 30s linear infinite; /* Adjust duration as needed */
 }
 
 .image-container img {
@@ -102,7 +102,7 @@ img {
 
 @keyframes marquee {
     0%   { transform: translateX(0); } /* Start from the beginning */
-    100% { transform: translateX(calc(-100% - 10px)); } /* Move to the left edge */
+    100% { transform: translateX(calc(-100% * 10)); } /* Move to the left edge */
 }
 
 /* Background header */
