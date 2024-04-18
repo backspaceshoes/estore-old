@@ -70,6 +70,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+.center-text {
+    text-align: center;
+}
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
