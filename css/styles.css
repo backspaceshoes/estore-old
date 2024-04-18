@@ -85,14 +85,12 @@ img {
 }
 
 .marquee {
-    width: 100%; /* Full width */
-    height: 130px; /* Height of the container */
     overflow: hidden;
 }
 
 .image-container {
     display: flex;
-    animation: marquee 10s linear infinite; /* Adjust duration as needed */
+    animation: marquee 20s linear infinite; /* Adjust duration as needed */
 }
 
 .image-container img {
@@ -102,7 +100,7 @@ img {
 
 @keyframes marquee {
     0%   { transform: translateX(0); } /* Start from the beginning */
-    100% { transform: translateX(calc(-100% * 14)); } /* Move to the left edge */
+    100% { transform: translateX(calc(-130px * 14)); } /* Move to the left edge */
 }
 
 /* Background header */
