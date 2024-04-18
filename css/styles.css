@@ -91,7 +91,7 @@ img {
 .image-container {
     display: flex;
     width: fit-content;
-    animation: marquee 40s linear infinite; 
+    animation: marquee 30s linear infinite; 
 }
 
 .image-container img {
@@ -104,6 +104,16 @@ img {
     100% { transform: translateX(-100%); } /* Move to the left edge */
 }
 
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+}
+
+.video-player {
+    width: 700px;
+}
 
 /* Background header */
 .bg-header{
