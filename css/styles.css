@@ -85,20 +85,19 @@ img {
 }
 
 .marquee {
-    width: calc(130px * 14); /* Total width of all images */
-    white-space: nowrap;
+    height: calc(130px * 14); /* Total height of all images */
     overflow: hidden;
     animation: marquee 20s linear infinite; /* Adjust duration as needed */
 }
 
 .marquee img {
-    width: 130px;
-    height: auto; /* Maintain aspect ratio */
+    height: 130px;
+    width: auto; /* Maintain aspect ratio */
 }
 
 @keyframes marquee {
-    0%   { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
+    0%   { transform: translateY(100%); }
+    100% { transform: translateY(-100%); }
 }
 
 
