@@ -116,6 +116,11 @@ img {
     width: 700px;
 }
 
+@media screen and (max-width: 768px) {
+    .video-container {
+        width: 100%;
+    }
+
 /* Background header */
 .bg-header{
   box-shadow: 0 2px 16px hsla(0, 0%, 0%, .1);
