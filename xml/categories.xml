@@ -117,9 +117,9 @@
     <others>
         <sports>
             <categoriesItem>
-                <size>
+                <name>
                     PUMA XBOLT SPIKES    
-                </size>
+                </name>
                 <price>
                     539.99
                 </price>
@@ -129,9 +129,9 @@
                 <imageURL>9.jpg</imageURL>
             </categoriesItem>
             <categoriesItem>
-                <size>
+                <name>
                     NIKE AIRMAX RUNNING SHOES X12   
-                </size>
+                </name>
                 <price>
                     559.00
                 </price>
@@ -141,9 +141,9 @@
                 <imageURL>10.jpg</imageURL>
             </categoriesItem>
             <categoriesItem>
-                <size>
+                <name>
                     NEW BALANCE SPARKING P1   
-                </size>
+                </name>
                 <price>
                     524.00
                 </price>
