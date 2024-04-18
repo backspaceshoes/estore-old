@@ -90,14 +90,13 @@ img {
 
 .image-container {
     display: flex;
-    /* Set a very large width to accommodate all images */
-    width: fit-content; /* Ensure container width fits its content */
-    animation: marquee 40s linear infinite; /* Adjust duration as needed */
+    width: fit-content; 
+    animation: marquee 80s linear infinite; 
 }
 
 .image-container img {
-    height: 100%; /* Ensure images fill the height of the container */
-    margin-right: 10px; /* Adjust spacing between images */
+    height: 100%; 
+    margin-right: 10px; 
 }
 
 @keyframes marquee {
