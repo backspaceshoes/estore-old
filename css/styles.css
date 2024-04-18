@@ -92,7 +92,6 @@ img {
 
 .image-container {
     display: flex;
-    white-space: nowrap; /* Prevent line breaks */
     animation: marquee 20s linear infinite; /* Adjust duration as needed */
 }
 
@@ -102,8 +101,8 @@ img {
 }
 
 @keyframes marquee {
-    0%   { transform: translateX(100%); } /* Start from the right edge */
-    100% { transform: translateX(-100%); } /* Move to the left edge */
+    0%   { transform: translateX(0); } /* Start from the beginning */
+    100% { transform: translateX(calc(-100% - 10px)); } /* Move to the left edge */
 }
 
 /* Background header */
