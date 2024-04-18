@@ -90,6 +90,8 @@ img {
 
 .image-container {
     display: flex;
+    /* Set a very large width to accommodate all images */
+    width: fit-content; /* Ensure container width fits its content */
     animation: marquee 20s linear infinite; /* Adjust duration as needed */
 }
 
@@ -100,8 +102,9 @@ img {
 
 @keyframes marquee {
     0%   { transform: translateX(0); } /* Start from the beginning */
-    100% { transform: translateX(calc(-130px * 14)); } /* Move to the left edge */
+    100% { transform: translateX(-100%); } /* Move to the left edge */
 }
+
 
 /* Background header */
 .bg-header{
