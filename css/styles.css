@@ -85,21 +85,24 @@ img {
 }
 
 .marquee {
-    height: calc(130px * 14); /* Total height of all images */
+    height: 130px; 
     overflow: hidden;
-    animation: marquee 20s linear infinite; /* Adjust duration as needed */
 }
 
-.marquee img {
-    height: 130px;
-    width: auto; /* Maintain aspect ratio */
+.image-container {
+    display: flex;
+    animation: marquee 20s linear infinite; 
+}
+
+.image-container img {
+    height: 100%; 
+    margin-right: 10px; 
 }
 
 @keyframes marquee {
-    0%   { transform: translateY(100%); }
+    0%   { transform: translateY(0); }
     100% { transform: translateY(-100%); }
 }
-
 
 /* Background header */
 .bg-header{
